@@ -1,0 +1,13 @@
+C:\Users\Zoraida\source\repos\PPT\PPT\bin\Debug\netcoreapp3.1\PPT.exe
+C:\Users\Zoraida\source\repos\PPT\PPT\bin\Debug\netcoreapp3.1\PPT.deps.json
+C:\Users\Zoraida\source\repos\PPT\PPT\bin\Debug\netcoreapp3.1\PPT.runtimeconfig.json
+C:\Users\Zoraida\source\repos\PPT\PPT\bin\Debug\netcoreapp3.1\PPT.runtimeconfig.dev.json
+C:\Users\Zoraida\source\repos\PPT\PPT\bin\Debug\netcoreapp3.1\PPT.dll
+C:\Users\Zoraida\source\repos\PPT\PPT\bin\Debug\netcoreapp3.1\PPT.pdb
+C:\Users\Zoraida\source\repos\PPT\PPT\obj\Debug\netcoreapp3.1\PPT.csprojAssemblyReference.cache
+C:\Users\Zoraida\source\repos\PPT\PPT\obj\Debug\netcoreapp3.1\PPT.csproj.CoreCompileInputs.cache
+C:\Users\Zoraida\source\repos\PPT\PPT\obj\Debug\netcoreapp3.1\PPT.AssemblyInfoInputs.cache
+C:\Users\Zoraida\source\repos\PPT\PPT\obj\Debug\netcoreapp3.1\PPT.AssemblyInfo.cs
+C:\Users\Zoraida\source\repos\PPT\PPT\obj\Debug\netcoreapp3.1\PPT.dll
+C:\Users\Zoraida\source\repos\PPT\PPT\obj\Debug\netcoreapp3.1\PPT.pdb
+C:\Users\Zoraida\source\repos\PPT\PPT\obj\Debug\netcoreapp3.1\PPT.genruntimeconfig.cache
